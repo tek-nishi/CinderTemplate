@@ -26,7 +26,7 @@
 1. cinder_0.8.6_vc2013 フォルダと同じ場所にCinderTemplateフォルダを置く
 1. vc2013/CinderTemplate.sln を開いてビルド
 
-## Liense
+## License
 License All source code files are licensed under the MPLv2.0 license
 
 [MPLv2.0](https://www.mozilla.org/MPL/2.0/)
